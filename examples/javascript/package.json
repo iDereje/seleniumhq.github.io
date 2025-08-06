@@ -9,11 +9,11 @@
     "dependencies": {
         "@sitespeed.io/edgedriver": "^111.0.1661-41",
         "assert": "^2.0.0",
-        "chromedriver": "^111.0.0",
-        "geckodriver": "^3.2.0",
+        "chromedriver": "^119.0.1",
+        "geckodriver": "^5.0.0",
         "selenium-webdriver": "^4.8.1"
     },
     "devDependencies": {
-        "mocha": "^10.2.0"
+        "mocha": "^10.8.2"
     }
 }
